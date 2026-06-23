@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/akcodeforge/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/akcodeforge/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/akcodeforge/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0556-next-greater-element-iii](https://github.com/akcodeforge/DSA-Practice/tree/master/0556-next-greater-element-iii) |
 | [2390-removing-stars-from-a-string](https://github.com/akcodeforge/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
