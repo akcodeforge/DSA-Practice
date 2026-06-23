@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/akcodeforge/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+| [0503-next-greater-element-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 ## Queue
 |  |
 | ------- |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/akcodeforge/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
