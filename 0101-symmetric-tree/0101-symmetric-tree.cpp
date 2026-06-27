@@ -12,39 +12,16 @@
  */
 class Solution {
 public:
-    vector<int> Node(TreeNode* root, int n) {
-        vector<int> ans;
-        if (root == NULL) {
-            ans.push_back(INT_MIN);
-            return ans;
-        }
-        ans.push_back(root->val);
-        vector<int> left = Node(root->left, n);
-        vector<int> right = Node(root->right, n);
-        if(n==1){
-            ans.insert(ans.end(),left.begin(),left.end());
-            ans.insert(ans.end(),right.begin(),right.end());
-        }
-        if(n==2){
-            ans.insert(ans.end(),right.begin(),right.end());
-            ans.insert(ans.end(),left.begin(),left.end());
-
-        }
-        return ans;
+    bool mirror(TreeNode* l , TreeNode* r){
+        if(l==NULL && r==NULL) return true;
+        if(l==NULL || r==NULL) return false;
+        if(l->val!=r->val) return false;
+        bool left=mirror(l->left,r->right);
+        bool right=mirror(l->right,r->left);
+        if(left && right) return true;
+        return false;
     }
     bool isSymmetric(TreeNode* root) {
-        if(root==NULL) return true;
-        vector<int> left;
-        vector<int> right;
-        left = Node(root->left, 1);
-        right = Node(root->right, 2);
-        if (left.size() != right.size())
-            return false;
-        for (int i = 0; i < left.size(); i++) {
-            if (left[i] != right[i]) {
-                return false;
-            }
-        }
-        return true;
+        return mirror(root->left,root->right);
     }
 };
