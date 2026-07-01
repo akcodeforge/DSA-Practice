@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/akcodeforge/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/akcodeforge/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Heap (Priority Queue)
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0649-dota2-senate](https://github.com/akcodeforge/DSA-Practice/tree/master/0649-dota2-senate) |
 | [1189-maximum-number-of-balloons](https://github.com/akcodeforge/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/akcodeforge/DSA-Practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/akcodeforge/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akcodeforge/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/akcodeforge/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/akcodeforge/DSA-Practice/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/akcodeforge/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/akcodeforge/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akcodeforge/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/akcodeforge/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
