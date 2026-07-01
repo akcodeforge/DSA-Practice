@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/akcodeforge/DSA-Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0622-design-circular-queue](https://github.com/akcodeforge/DSA-Practice/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/akcodeforge/DSA-Practice/tree/master/0641-design-circular-deque) |
 | [1019-next-greater-node-in-linked-list](https://github.com/akcodeforge/DSA-Practice/tree/master/1019-next-greater-node-in-linked-list) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/akcodeforge/DSA-Practice/tree/master/0257-binary-tree-paths) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/akcodeforge/DSA-Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/akcodeforge/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akcodeforge/DSA-Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/akcodeforge/DSA-Practice/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/akcodeforge/DSA-Practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
